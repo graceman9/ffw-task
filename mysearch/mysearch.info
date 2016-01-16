@@ -1,0 +1,4 @@
+name = My search
+description = Test module for FFW agency
+core = 7.x
+package = Custom
